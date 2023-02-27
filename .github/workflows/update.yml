@@ -5,8 +5,19 @@ name: 'Update Bot'
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * 1'
-    
+    - cron: '53 * * * 1'
+
+# ┌───────────── minute (0 - 59)
+# │ ┌───────────── hour (0 - 23)
+# │ │ ┌───────────── day of the month (1 - 31)
+# │ │ │ ┌───────────── month (1 - 12 or JAN-DEC)
+# │ │ │ │ ┌───────────── day of the week (0 - 6 or SUN-SAT)
+# │ │ │ │ │
+# │ │ │ │ │
+# │ │ │ │ │
+# * * * * *
+# 0 0 * * 1
+
 jobs:
   bot:
     runs-on: ubuntu-latest
@@ -23,8 +34,8 @@ jobs:
         run: python3 ./update.py
       - name: 'commit'
         run: |
-          git config --global user.email 30486766+entr0pia@users.noreply.github.com
-          git config --global user.name entr0pia
+          git config --global user.email zphiliam@users.noreply.github.com
+          git config --global user.name zphiliam
           git add *
           git commit -m "update by bot"
       - name: Push changes

@@ -66,6 +66,10 @@ if __name__ == "__main__":
                 '*.webofknowledge.com\n',
                 '*.wiley.com\n',
                 '\n',
+                ';--'
+                '*.jsdelivr.net\n',
+                '*.jsdelivr.com\n',
+                '\n',
                 '; 常规列表\n']
 
     r = requests.get(confurl)
