@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 '''
-@作者: 风沐白
+@作者: 九天 fork from 风沐白
 @文件: update.py
 @描述: 从网络来源更新白名单规则
 '''
