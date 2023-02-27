@@ -15,6 +15,7 @@ confurl = 'https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/mast
 if __name__ == "__main__":
     conffile = 'accelerated-domains.china.conf'
     sorlfile = 'white-list.sorl'
+    serverlist = 'serverlist'
     rules = set()
     newdomain = []
     headline = ['[SwitchyOmega Conditions]\n',
@@ -82,7 +83,7 @@ if __name__ == "__main__":
     rules = list(rules)
     rules.sort()
 
-    with open(conffile, 'r') as f:
+    with open(serverlist, 'r') as f:
         newdomain = f.readlines()
 
     out = [*headline,*newdomain, *rules]
