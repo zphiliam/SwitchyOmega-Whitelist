@@ -48,6 +48,9 @@
 *.webofknowledge.com
 *.wiley.com
 
+;--*.jsdelivr.net
+*.jsdelivr.com
+
 ; 常规列表
 *.0-100.com
 *.0-6.com
