@@ -16,6 +16,7 @@ if __name__ == "__main__":
     conffile = 'accelerated-domains.china.conf'
     sorlfile = 'white-list.sorl'
     rules = set()
+    newdomain = []
     headline = ['[SwitchyOmega Conditions]\n',
                 '; Require: SwitchyOmega >= 2.3.2\n',
                 '\n',
@@ -66,10 +67,6 @@ if __name__ == "__main__":
                 '*.webofknowledge.com\n',
                 '*.wiley.com\n',
                 '\n',
-                ';--'
-                '*.jsdelivr.net\n',
-                '*.jsdelivr.com\n',
-                '\n',
                 '; 常规列表\n']
 
     r = requests.get(confurl)
@@ -84,7 +81,11 @@ if __name__ == "__main__":
 
     rules = list(rules)
     rules.sort()
-    out = [*headline, *rules]
+
+    with open(conffile, 'r') as f:
+        newdomain = f.readlines()
+
+    out = [*headline,*newdomain, *rules]
 
     with open(sorlfile, 'w') as f:
         f.writelines(out)
