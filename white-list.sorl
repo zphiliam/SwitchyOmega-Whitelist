@@ -59,6 +59,8 @@
 test-ipv6.com
 *.bing.com
 *.jingjidanao.com
+*.lingyou.site
+;
 ; <==
 ; ========================
 
@@ -3777,7 +3779,6 @@ test-ipv6.com
 *.51kik.com
 *.51kim.com
 *.51kt.com
-*.51ktbyte.com
 *.51kupai.com
 *.51kupin.com
 *.51kywang.com
@@ -5899,7 +5900,6 @@ test-ipv6.com
 *.880114.com
 *.880303.xyz
 *.880331.net
-*.8805956.com
 *.880735.com
 *.88077777.com
 *.88090.com
@@ -6731,7 +6731,6 @@ test-ipv6.com
 *.99music.net
 *.99niu.com
 *.99pdf.com
-*.99pet.com
 *.99ppt.com
 *.99pto.com
 *.99qh.com
@@ -7762,6 +7761,7 @@ test-ipv6.com
 *.aiykj.com
 *.aiyou.com
 *.aiyoumi.com
+*.aiyouzj.com
 *.aiyoweia.com
 *.aiysm.com
 *.aiyuangong.com
@@ -8979,7 +8979,6 @@ test-ipv6.com
 *.aunload.com
 *.aupu.net
 *.aura-el.com
-*.aurogon.com
 *.auromcs.com
 *.ausaview.com
 *.ausbio.com
@@ -9939,7 +9938,6 @@ test-ipv6.com
 *.be90.com
 *.beadwallet.com
 *.bear20.com
-*.bearad.com
 *.bearead.com
 *.beargoo.com
 *.bearjoy.com
@@ -10171,7 +10169,6 @@ test-ipv6.com
 *.bestsign.tech
 *.bestsrc.com
 *.bestswifter.com
-*.besttoneh.com
 *.besttrav.com
 *.bestv6.com
 *.bestvapp.com
@@ -10601,7 +10598,6 @@ test-ipv6.com
 *.bitetui.com
 *.bitgo.cc
 *.bitgo.net
-*.bitgo.tech
 *.bitguai.com
 *.bithosts.net
 *.bithub00.com
@@ -10675,6 +10671,7 @@ test-ipv6.com
 *.bizvane.com
 *.bj-apc.com
 *.bj-big.com
+*.bj-dahon.com
 *.bj-dsmzyy.com
 *.bj-kpn.com
 *.bj-sagtar.com
@@ -10726,7 +10723,6 @@ test-ipv6.com
 *.bjcxdf.com
 *.bjcycg.com
 *.bjcyzg.com
-*.bjdachi.com
 *.bjdcfy.com
 *.bjdfxj.com
 *.bjdiaoyu.com
@@ -12748,7 +12744,6 @@ test-ipv6.com
 *.ceiea.com
 *.cekid.com
 *.celebpalace.com
-*.celia520.com
 *.celiang.net
 *.cellixsoft.com
 *.cellmean.com
@@ -13118,7 +13113,6 @@ test-ipv6.com
 *.chappell1811.com
 *.chargerlab.com
 *.chargerlink.com
-*.charmelady.com
 *.charmingglobe.com
 *.chartboost-china.com
 *.chashebao.com
@@ -13607,7 +13601,6 @@ test-ipv6.com
 *.chinacourt.org
 *.chinacpda.com
 *.chinacpda.org
-*.chinacpec.com
 *.chinacpx.com
 *.chinacqic.org
 *.chinacqsb.com
@@ -13652,7 +13645,6 @@ test-ipv6.com
 *.chinaefu.net
 *.chinaega.com
 *.chinaehs.net
-*.chinaeic.net
 *.chinaeinet.com
 *.chinaeinv.com
 *.chinaembassy.at
@@ -14742,7 +14734,6 @@ test-ipv6.com
 *.cltt.org
 *.clubcarev.com
 *.clubweixin.samsung.com
-*.clugqa.com
 *.clx360.com
 *.clyric.com
 *.clz.me
@@ -16117,7 +16108,6 @@ test-ipv6.com
 *.csgokai.com
 *.csgpc.org
 *.csguan.com
-*.csgwbn.com
 *.csgwexpo.com
 *.csharpkit.com
 *.cshixi.com
@@ -17183,6 +17173,7 @@ test-ipv6.com
 *.dbh123.net
 *.dbkan.com
 *.dblgf.com
+*.dbljj.com
 *.dbm-sh.com
 *.dbmailserver.com
 *.dbmall.com
@@ -18224,7 +18215,6 @@ test-ipv6.com
 *.dnse0.com
 *.dnse1.com
 *.dnsfamily.com
-*.dnsfang.com
 *.dnsff.com
 *.dnsfwq.com
 *.dnsgtm.com
@@ -19009,7 +18999,6 @@ test-ipv6.com
 *.dwntme.com
 *.dwnxy.com
 *.dwq.com
-*.dwqcw.com
 *.dwrh.net
 *.dwsedu.com
 *.dwstatic.com
@@ -19380,7 +19369,6 @@ test-ipv6.com
 *.easyrecoverycn.com
 *.easysofthome.com
 *.easyswoole.com
-*.easytalkee.com
 *.easytifen.com
 *.easytimetv.com
 *.easytite.com
@@ -19934,6 +19922,7 @@ test-ipv6.com
 *.elvshi.com
 *.elvxing.net
 *.elxk.com
+*.em-ide.com
 *.emadao.com
 *.emaileds.com
 *.emailflame.com
@@ -21124,7 +21113,6 @@ test-ipv6.com
 *.feiyu.com
 *.feiyuapi.com
 *.feiyue.online
-*.feiyuemu.com
 *.feiyunjs.com
 *.feiyunxiazai.com
 *.feiyuteam.com
@@ -21300,7 +21288,6 @@ test-ipv6.com
 *.fgo.wiki
 *.fgowiki.com
 *.fgtymk.com
-*.fgvisa.net
 *.fh1551.com
 *.fh21.com
 *.fh21static.com
@@ -21854,6 +21841,7 @@ test-ipv6.com
 *.freqchina.com
 *.fresh-ideas.cc
 *.freshhema.com
+*.freshippo.com
 *.freshnewsnet.com
 *.frhelper.com
 *.friendeye.com
@@ -23091,6 +23079,7 @@ test-ipv6.com
 *.gkzhan.com
 *.gkzj.net
 *.gkzxw.com
+*.gkzyb.com
 *.gl-data.com
 *.gl-inet.com
 *.gl102.com
@@ -23105,7 +23094,6 @@ test-ipv6.com
 *.glb3.com
 *.glb6.com
 *.glbdns.com
-*.glbdqn.com
 *.glcanyin.net
 *.glcct.com
 *.glclcsy.com
@@ -23866,7 +23854,6 @@ test-ipv6.com
 *.gudemanage.com
 *.gudi.cc
 *.guduodata.com
-*.guestops.com
 *.gufengmh9.com
 *.gugeanzhuangqi.com
 *.gugeapps.net
@@ -24258,6 +24245,7 @@ test-ipv6.com
 *.gzhotelgroup.com
 *.gzhphb.com
 *.gzhtinfo.com
+*.gzhttp.com
 *.gzhuake.cc
 *.gzhuojia.com
 *.gzhxpw.com
@@ -24645,7 +24633,6 @@ test-ipv6.com
 *.haiyun.me
 *.haizhangs.com
 *.haizhanweb.com
-*.haizhixing.net
 *.haizhlink.com
 *.haizhoumo.com
 *.haizhuyx.com
@@ -24677,7 +24664,6 @@ test-ipv6.com
 *.hand-china.com
 *.handanjob.com
 *.handanw.com
-*.handanxinduo.com
 *.handanyz.com
 *.handday.com
 *.handfunds.com
@@ -24724,7 +24710,6 @@ test-ipv6.com
 *.hanjie.biz
 *.hanjjl.com
 *.hanju-tv.org
-*.hanjutiantang.com
 *.hanjutv.com
 *.hanjutv.me
 *.hanjutvaa.com
@@ -25227,7 +25212,6 @@ test-ipv6.com
 *.hbrfxh.com
 *.hbruicai.com
 *.hbrunlin.com
-*.hbrxtc.com
 *.hbryzx.net
 *.hbrzkj.com
 *.hbs-nd.com
@@ -26870,7 +26854,6 @@ test-ipv6.com
 *.htkaoyan.com
 *.htky365.com
 *.html51.com
-*.html5cn.org
 *.html5code.net
 *.html5dw.com
 *.html5plus.org
@@ -27232,7 +27215,6 @@ test-ipv6.com
 *.hugd.com
 *.hugecdn168.com
 *.hugeland.com
-*.huhabao.com
 *.huhoo.com
 *.huhoo.net
 *.huhua.net
@@ -27391,7 +27373,6 @@ test-ipv6.com
 *.hujia.org
 *.hujiang.com
 *.hujiuzhou.com
-*.hujuntao.com
 *.huke88.com
 *.hukou021.com
 *.hulai.com
@@ -28695,7 +28676,6 @@ test-ipv6.com
 *.iikx.com
 *.iiong.com
 *.iipiano.com
-*.iireadiness.com
 *.iirii.com
 *.iis7.com
 *.iischool.com
@@ -29561,7 +29541,6 @@ test-ipv6.com
 *.it-crazy.net
 *.it007.com
 *.it0746.com
-*.it086.net
 *.it120.cc
 *.it1352.com
 *.it163.com
@@ -29661,6 +29640,7 @@ test-ipv6.com
 *.ithov.com
 *.itiankong.com
 *.itiankong.net
+*.itianliao.com
 *.itiexue.net
 *.itiger.com
 *.itigergrowth.com
@@ -30350,7 +30330,6 @@ test-ipv6.com
 *.jhsbggw.com
 *.jhscm.com
 *.jhscrm.com
-*.jhsfojiao.com
 *.jhsjtxx.com
 *.jhssapp.com
 *.jhszyy.com
@@ -30484,7 +30463,6 @@ test-ipv6.com
 *.jiangwang.net
 *.jiangweishan.com
 *.jiangxianli.com
-*.jiangxindaojia.com
 *.jiangxiol.com
 *.jiangzi.com
 *.jianhaobao.com
@@ -30939,7 +30917,6 @@ test-ipv6.com
 *.jinhusns.com
 *.jinianbi.com
 *.jiniance8.com
-*.jiningyuesao.com
 *.jinjianbio.com
 *.jinjiang.com
 *.jinjianginns.com
@@ -31299,7 +31276,6 @@ test-ipv6.com
 *.jjwxc.com
 *.jjwxc.net
 *.jjwxc.org
-*.jjx886.com
 *.jjxwzk.org
 *.jjxyls.com
 *.jjy118.com
@@ -31422,6 +31398,7 @@ test-ipv6.com
 *.jndwyy.com
 *.jnesc.com
 *.jnexpert.com
+*.jnghm.com
 *.jnhouse.com
 *.jnjj.com
 *.jnkason.com
@@ -31445,7 +31422,6 @@ test-ipv6.com
 *.jnyestar.com
 *.jnzcsyj.com
 *.jnzfwz.com
-*.jnzixun.com
 *.jnzycw.com
 *.jo43.com
 *.joaquinchou.com
@@ -31590,7 +31566,6 @@ test-ipv6.com
 *.jpsdk.com
 *.jpshuntong.com
 *.jpsmile.com
-*.jptaiyo.com
 *.jpthome.com
 *.jpush.io
 *.jpushoa.com
@@ -31714,7 +31689,6 @@ test-ipv6.com
 *.jshaman.com
 *.jshanchao.com
 *.jsharer.com
-*.jsharyjx.com
 *.jshbank.com
 *.jshdata.com
 *.jshdwh.com
@@ -32009,7 +31983,6 @@ test-ipv6.com
 *.junxilinux.com
 *.junyao.tech
 *.junying.com
-*.junyougame.com
 *.junyudns.com
 *.junyuewl.com
 *.junzhuan.com
@@ -32397,7 +32370,6 @@ test-ipv6.com
 *.kailing.pub
 *.kaimanhua.com
 *.kaimg.com
-*.kaimigou.com
 *.kaipan88.com
 *.kaipanla.com
 *.kaiqiancq.com
@@ -32812,6 +32784,7 @@ test-ipv6.com
 *.keyboardingonline.net
 *.keycom-ip.com
 *.keydatas.com
+*.keyde.com
 *.keydot.net
 *.keygotech.com
 *.keyigroup.com
@@ -33013,6 +32986,7 @@ test-ipv6.com
 *.kkdownload.com
 *.kkeji.com
 *.kkeye.com
+*.kkfesw.com
 *.kkguan.com
 *.kkh-global.com
 *.kkid.vip
@@ -35827,7 +35801,6 @@ test-ipv6.com
 *.ls.link
 *.ls0513.com
 *.ls1018.com
-*.ls12.me
 *.ls666.com
 *.lsbankchina.com
 *.lsbchina.com
@@ -36551,7 +36524,6 @@ test-ipv6.com
 *.makeding.com
 *.makefang.com
 *.makefont.com
-*.makejinrong.com
 *.makelie.com
 *.makelove.la
 *.makepic.net
@@ -36731,6 +36703,7 @@ test-ipv6.com
 *.maplef.net
 *.mapmapping.com
 *.mappn.com
+*.maqingbo.com
 *.maqingxi.com
 *.maqinnews.com
 *.mararun.com
@@ -37140,7 +37113,6 @@ test-ipv6.com
 *.meisubq.com
 *.meisupic.com
 *.meitangdehulu.com
-*.meitaotaoo.com
 *.meitegou.com
 *.meitianhui.com
 *.meitu.com
@@ -37572,7 +37544,6 @@ test-ipv6.com
 *.milanvip.com
 *.mileage.vip
 *.milejia.com
-*.miletu.com
 *.milfuns.com
 *.miliantech.com
 *.miliao.com
@@ -37617,7 +37588,6 @@ test-ipv6.com
 *.mindmapper.cc
 *.mindmeters.com
 *.mindmm.com
-*.mindopu.com
 *.mindpin.com
 *.mindray.com
 *.minecraftxz.com
@@ -37815,7 +37785,6 @@ test-ipv6.com
 *.mk2048.com
 *.mkaq.org
 *.mkb0898.com
-*.mkclick.com
 *.mkf.com
 *.mkjump.com
 *.mklimg.com
@@ -37917,6 +37886,7 @@ test-ipv6.com
 *.mmybt.com
 *.mmycdn.com
 *.mmyfilm.com
+*.mmzcn.com
 *.mmzh.com
 *.mn-soft.com
 *.mnancheng.com
@@ -38616,7 +38586,6 @@ test-ipv6.com
 *.myanjian.com
 *.myanmarembassy.com
 *.myantu.com
-*.myapks.com
 *.myapp.com
 *.myapp.ltd
 *.myaqsh.com
@@ -39064,7 +39033,6 @@ test-ipv6.com
 *.nbhky.com
 *.nbimer.com
 *.nbimg.com
-*.nbjhawl.com
 *.nbjlw.com
 *.nbjnw.com
 *.nbjzjn.com
@@ -39131,7 +39099,6 @@ test-ipv6.com
 *.nddnrm.com
 *.ndhys.com
 *.ndmh.com
-*.ndnslab.com
 *.ndoo.net
 *.ndscsoft.com
 *.ndser.net
@@ -39468,7 +39435,6 @@ test-ipv6.com
 *.nihaodd.com
 *.nihaotw.com
 *.nihaowang.com
-*.nihuwo.net
 *.niiceda.com
 *.niiddm.com
 *.niimbot.com
@@ -39811,7 +39777,6 @@ test-ipv6.com
 *.nowscore.com
 *.nowshipin.com
 *.nowxz.com
-*.nowyingshi.com
 *.noxgroup.com
 *.noxue.com
 *.noxxxx.com
@@ -40024,7 +39989,6 @@ test-ipv6.com
 *.nzbdw.com
 *.nzchina.com
 *.nzsiteres.com
-*.nzw-china.com
 *.nzwgs.com
 *.o--o.win
 *.o-netcom.com
@@ -40146,7 +40110,6 @@ test-ipv6.com
 *.officesoftcn.com
 *.officeweb365.com
 *.officewj.com
-*.officexr.com
 *.officezhushou.com
 *.officezu.com
 *.offodd.com
@@ -41011,7 +40974,6 @@ test-ipv6.com
 *.patsev.com
 *.patsnapglobal.com
 *.paul.pub
-*.paulbarnacle.com
 *.paulzzh.com
 *.paulzzh.tech
 *.paxdn.com
@@ -41355,7 +41317,6 @@ test-ipv6.com
 *.phpv.net
 *.phpvar.com
 *.phpvod.com
-*.phpweb.net
 *.phpweblog.net
 *.phpxs.com
 *.phpyun.com
@@ -41370,7 +41331,6 @@ test-ipv6.com
 *.pianona.com
 *.pianoun.com
 *.piantou.net
-*.pianwan.com
 *.pianyit.com
 *.pianyiwan.com
 *.pianziweb.com
@@ -42180,7 +42140,6 @@ test-ipv6.com
 *.py1314.com
 *.py168.com
 *.py3study.com
-*.py6.com
 *.py94.com
 *.pyadx.com
 *.pyasfunds.com
@@ -42551,7 +42510,6 @@ test-ipv6.com
 *.qianjiayue.com
 *.qianjin5.com
 *.qianjing.com
-*.qianjins.com
 *.qianju.org
 *.qianka.com
 *.qianliao.net
@@ -42634,7 +42592,6 @@ test-ipv6.com
 *.qiaqa.com
 *.qiaqiafood.com
 *.qiawei.com
-*.qibaodx.com
 *.qibazaixian.com
 *.qibingdaojia.com
 *.qibo168.com
@@ -42645,7 +42602,6 @@ test-ipv6.com
 *.qicaispace.com
 *.qicaitechan.com
 *.qicaixianhua.com
-*.qicc8.cc
 *.qichacha.co
 *.qichacha.com
 *.qichacha.net
@@ -44624,7 +44580,6 @@ test-ipv6.com
 *.ruitiancapital.com
 *.ruiwant.com
 *.ruiwen.com
-*.ruixiang-wire.com
 *.ruixiangbest.com
 *.ruixing.cc
 *.ruixuesoft.com
@@ -45576,7 +45531,6 @@ test-ipv6.com
 *.sfccn.com
 *.sfcdn.org
 *.sfddj.com
-*.sfdkj.com
 *.sfefqwq3.com
 *.sfgj.org
 *.sfgy.org
@@ -45955,7 +45909,6 @@ test-ipv6.com
 *.shejibao.com
 *.shejiben.com
 *.shejidaren.com
-*.shejigh.com
 *.shejihz.com
 *.shejijia.com
 *.shejijingsai.com
@@ -46171,7 +46124,6 @@ test-ipv6.com
 *.shidi.org
 *.shidiao136.com
 *.shidiao18.com
-*.shidu.com
 *.shidz.com
 *.shifang.tech
 *.shifangshike.com
@@ -46398,6 +46350,7 @@ test-ipv6.com
 *.shoudian.org
 *.shouduit.com
 *.shoudurc.com
+*.shoufaw.com
 *.shoufm.com
 *.shougongke.com
 *.shouhoubang.com
@@ -46673,7 +46626,6 @@ test-ipv6.com
 *.shuodedui.com
 *.shuomingshu.net
 *.shuomingshuku.com
-*.shuosanguo.com
 *.shuoshuo9.com
 *.shuoshuokong.com
 *.shuoshuokong.org
@@ -46712,6 +46664,7 @@ test-ipv6.com
 *.shuyuewu.co
 *.shuyun.com
 *.shuzhi9.com
+*.shuzhibaogao.net
 *.shuzhiduo.com
 *.shuzhou.cc
 *.shuzibao.com
@@ -46845,7 +46798,6 @@ test-ipv6.com
 *.silkroadtechnologies.com
 *.silksong.me
 *.sillydong.com
-*.silu020.com
 *.silucar.com
 *.silucg.com
 *.siludao.com
@@ -48032,7 +47984,6 @@ test-ipv6.com
 *.st12121.net
 *.st123.com
 *.st180.com
-*.staceystrachan.com
 *.stackboom.xin
 *.stackcc.com
 *.stackoom.com
@@ -48133,7 +48084,6 @@ test-ipv6.com
 *.sthifi.com
 *.sthke.com
 *.sticksgame.com
-*.stjfw.net
 *.stkey.win
 *.stklt.com
 *.stlswm.com
@@ -48199,7 +48149,6 @@ test-ipv6.com
 *.studygolang.com
 *.studyingtours.com
 *.studyjamscn.com
-*.studylinux.net
 *.studyll.com
 *.studyofnet.com
 *.studypay.com
@@ -48279,7 +48228,6 @@ test-ipv6.com
 *.sudusite.com
 *.sueflower.com
 *.sueon.com
-*.sufa168.com
 *.sufangxu.com
 *.sufeinet.com
 *.sufont.com
@@ -48420,7 +48368,6 @@ test-ipv6.com
 *.sunsky-online.com
 *.sunstarasia.com
 *.sunstu.com
-*.suntalk-shftz.com
 *.suntop168.com
 *.suntray.com
 *.suntrayoa.com
@@ -48641,6 +48588,7 @@ test-ipv6.com
 *.sxgq.net
 *.sxgs.com
 *.sxgwyw.org
+*.sxh3k.app
 *.sxhctv.com
 *.sxhlxy.com
 *.sxhm.com
@@ -49895,7 +49843,6 @@ test-ipv6.com
 *.thenburn.com
 *.thenew123.com
 *.theorychina.org
-*.thep196.cc
 *.thesmartmelon.com
 *.thestack.net
 *.theszt.com
@@ -50595,7 +50542,6 @@ test-ipv6.com
 *.top147.com
 *.top263.net
 *.top2fun.com
-*.top3456.com
 *.topber.com
 *.topbester.com
 *.topbiz360.com
@@ -51495,7 +51441,6 @@ test-ipv6.com
 *.tyust.net
 *.tyuyan.com
 *.tyuyan.net
-*.tywbw.com
 *.tywh.com
 *.tywxw.la
 *.tyy6.com
@@ -51848,7 +51793,6 @@ test-ipv6.com
 *.umilu.com
 *.umindex.com
 *.uminehotel.com
-*.umineiot.com
 *.uminsky.com
 *.umiwi.com
 *.umjicanvas.com
@@ -52814,7 +52758,6 @@ test-ipv6.com
 *.vpsor.com
 *.vpsqb.com
 *.vpsrb.com
-*.vpsrr.com
 *.vpssir.com
 *.vpsss.net
 *.vpszh.com
@@ -52946,6 +52889,7 @@ test-ipv6.com
 *.vxposed.com
 *.vxsnk.com
 *.vxuey.com
+*.vxv.ink
 *.vycool.com
 *.vyin.com
 *.vynior.com
@@ -52965,7 +52909,6 @@ test-ipv6.com
 *.vzhushou.com
 *.vzidc.com
 *.vzkoo.com
-*.vzmapp.com
 *.vzuu.com
 *.w-e.cc
 *.w-w-j-d.com
@@ -53106,7 +53049,6 @@ test-ipv6.com
 *.wanchengwenku.com
 *.wanchenzg.com
 *.wanchuweilai.com
-*.wand6.com
 *.wanda-cti.com
 *.wanda-gh.com
 *.wanda-group.com
@@ -53278,7 +53220,6 @@ test-ipv6.com
 *.wanmeilink.com
 *.wanmeilr.com
 *.wanmeitang.com
-*.wanmeiyueyu.com
 *.wanmeiyunjiao.com
 *.wanmi.cc
 *.wanmi.com
@@ -54310,7 +54251,6 @@ test-ipv6.com
 *.whsqsoft.com
 *.whsrc.com
 *.whssxpx.com
-*.whsunmap.com
 *.whsw.net
 *.whsy.org
 *.whsyy.net
@@ -54722,7 +54662,6 @@ test-ipv6.com
 *.wmpic.me
 *.wmpvp.com
 *.wmpyol.com
-*.wmqfey.com
 *.wms100.com
 *.wmsjyun.com
 *.wmsub.com
@@ -54815,7 +54754,6 @@ test-ipv6.com
 *.wofangwang.com
 *.wofficebox.com
 *.wofjhs.com
-*.wofoshanzhuang.com
 *.wogame.net
 *.wogoo.com
 *.wohenizaiyiqi.com
@@ -55241,7 +55179,6 @@ test-ipv6.com
 *.wuhanpep.com
 *.wuhanport.com
 *.wuhanrt.com
-*.wuhantest.com
 *.wuhantianqi114.com
 *.wuhantskj.com
 *.wuhanunion.com
@@ -55626,6 +55563,7 @@ test-ipv6.com
 *.x-jishu.com
 *.x-mol.com
 *.x-plans.com
+*.x-ui.com
 *.x00785.com
 *.x0769.com
 *.x11263.com
@@ -57187,7 +57125,6 @@ test-ipv6.com
 *.xk9l.com
 *.xkaxka.com
 *.xkb1.com
-*.xkbsw.com
 *.xkcd.in
 *.xkcun.com
 *.xkcxh.com
@@ -57450,6 +57387,7 @@ test-ipv6.com
 *.xpj0755.cc
 *.xpj0791.cc
 *.xplaymobile.com
+*.xpn.cc
 *.xpsheying.com
 *.xpsy.net
 *.xptt.com
@@ -57473,7 +57411,6 @@ test-ipv6.com
 *.xqsbw.com
 *.xqship.com
 *.xqtesting.com
-*.xqwww.com
 *.xqyk024.com
 *.xqypay.com
 *.xrcch.com
@@ -58529,6 +58466,7 @@ test-ipv6.com
 *.yeetan.com
 *.yeeuu.com
 *.yeeyan.com
+*.yeezon.com
 *.yegame.com
 *.yegenyou.com
 *.yegoo.com
@@ -58592,7 +58530,6 @@ test-ipv6.com
 *.yesudoo.com
 *.yesuse.net
 *.yeswan.com
-*.yesxia.com
 *.yesxun.com
 *.yetianzi.com
 *.yetingjk.com
@@ -58905,7 +58842,6 @@ test-ipv6.com
 *.yilongtv.com
 *.yilule.com
 *.yilumh.com
-*.yiluzhuanqian.com
 *.yiluzouhao.com
 *.yilvcheng.com
 *.yimaoip.com
@@ -58925,7 +58861,6 @@ test-ipv6.com
 *.yimihaodi.com
 *.yimin.biz
 *.yimin168.com
-*.yimincaifu.com
 *.yiminchaoshi.com
 *.yimingkeji.net
 *.yimingzhi.net
@@ -58953,7 +58888,6 @@ test-ipv6.com
 *.yineitong.com
 *.yinfeiy.com
 *.ying-ji.com
-*.yingbar.com
 *.yingbei365.com
 *.yingbio.com
 *.yingbishufa.com
@@ -60078,7 +60012,6 @@ test-ipv6.com
 *.ysszzs.com
 *.yst100.net
 *.ysten.com
-*.ystinbox.com
 *.ysug.com
 *.ysw365.com
 *.ysw68.com
@@ -60620,6 +60553,7 @@ test-ipv6.com
 *.yunzongnet.com
 *.yunzujia.com
 *.yunzz.net
+*.yupaowang.com
 *.yupiao.info
 *.yupoo.com
 *.yupu.com
@@ -60664,7 +60598,6 @@ test-ipv6.com
 *.yuxiaor.com
 *.yuxinews.com
 *.yuxingqiu.com
-*.yuxip.com
 *.yuxitech.com
 *.yuxungs.com
 *.yuyicai.com
@@ -62339,7 +62272,6 @@ test-ipv6.com
 *.zhulong.com
 *.zhulongjiang.com
 *.zhulu86.com
-*.zhume.com
 *.zhumengwl.com
 *.zhumu.me
 *.zhuna.net
@@ -62464,7 +62396,7 @@ test-ipv6.com
 *.zihexin.net
 *.zihu.com
 *.zihua01.com
-*.ziipoo.com
+*.zihuazhijia.com
 *.ziisp.com
 *.zijieapi.com
 *.zijiecdn.com
@@ -62913,6 +62845,7 @@ test-ipv6.com
 *.znjchina.com
 *.znjj.tv
 *.znlzd.com
+*.znonline.net
 *.znpin.com
 *.znqnet.com
 *.znshuru.com
@@ -63217,7 +63150,6 @@ test-ipv6.com
 *.zudequ.com
 *.zudong.com
 *.zufang.com
-*.zufangbao.com
 *.zufangzi.com
 *.zugame.com
 *.zugeliang01.com
@@ -63374,6 +63306,7 @@ test-ipv6.com
 *.zwtianshangm.com
 *.zwtkl8.com
 *.zwtxipr.com
+*.zwwank.com
 *.zwwdm.com
 *.zwwltkl.com
 *.zwwx.com
@@ -63423,7 +63356,6 @@ test-ipv6.com
 *.zxmall.com
 *.zxmn2018.com
 *.zxmseed.com
-*.zxmxd.com
 *.zxnic.net
 *.zxnrh.com
 *.zxopen.com
