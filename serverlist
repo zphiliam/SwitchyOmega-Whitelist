@@ -8,6 +8,9 @@
 test-ipv6.com
 *.bing.com
 *.bing.net
+*.live.com
+*.microsoft.com
+*.bingapis.com
 *.jingjidanao.com
 *.lingyou.site
 *.zhile.io
